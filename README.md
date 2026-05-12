@@ -1,5 +1,8 @@
 # Diabetes Progression Data Science Final Project
 
+Author: Samuel Crosly
+netid: sjc318
+
 Repository: https://github.com/kanezuki/CS439-Final-Project
 
 This folder contains the reproducible code and output files for the final project. The written report is kept separately in `report_submission/final_report.pdf` in the submission zip.
