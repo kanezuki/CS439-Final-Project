@@ -1,0 +1,27 @@
+{
+  "n_samples": 442,
+  "n_features": 10,
+  "features": [
+    "age",
+    "sex",
+    "bmi",
+    "bp",
+    "s1",
+    "s2",
+    "s3",
+    "s4",
+    "s5",
+    "s6"
+  ],
+  "target_min": 25.0,
+  "target_max": 346.0,
+  "target_mean": 152.13348416289594,
+  "target_median": 140.5,
+  "classification_threshold_top_quartile": 211.5,
+  "best_regression_model_by_rmse": "Random forest regressor",
+  "best_classifier_by_auc": "Logistic regression",
+  "pca_variance_ratio": [
+    0.4024210750152782,
+    0.14923196775986924
+  ]
+}
